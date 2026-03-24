@@ -117,17 +117,6 @@ This tool exposes **plaintext credentials**.
 
 ---
 
-## 🚫 .gitignore Recommendation
-
-Add the following:
-
-```
-*.json
-WinSCP.ini
-```
-
----
-
 ## ⚖️ Disclaimer
 
 This tool is intended for **authorized use only**.
