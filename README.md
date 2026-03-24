@@ -130,4 +130,4 @@ Use responsibly.
 ## 👨‍💻 Author
 
 Mohamed Moheyeldin (Eldin)
-QA Automation Engineer | SDET | DevOps Enthusiast
+QA Automation Engineer | SDET | DevOps
